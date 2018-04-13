@@ -1,9 +1,9 @@
 {
   "controller": {
-    "host": "4dot4",
+    "host": "localhost",
     "port": 8090,
     "account": "customer1",
-    "password": "86d162d0-7829-4f5c-b102-1ef422cb9228",
+    "password": "***",
     "ssl": false,
     "enable_tls12": false
   },
