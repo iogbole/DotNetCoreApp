@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "6dd25b7d7e4a13fa428fdbbc7436c8d8c9327f68"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "DotNetCoreConsole/1.0.0": {
+        "dependencies": {
+          "AppDynamics.Agent.Windows": "4.4.3"
+        },
+        "runtime": {
+          "DotNetCoreConsole.dll": {}
+        }
+      },
+      "AppDynamics.Agent.Distrib.Micro.Windows/4.4.3": {},
+      "AppDynamics.Agent.Windows/4.4.3": {
+        "dependencies": {
+          "AppDynamics.Agent.Distrib.Micro.Windows": "4.4.3"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetCoreConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppDynamics.Agent.Distrib.Micro.Windows/4.4.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o6ixCQtRlzswhWAoMyCx612gGHYhKdkGlMbqXa4x4ykE8kup/pJjRN2GJ9ho7xtwQpJ8ZsICRRnDNUfEKLpQbQ==",
+      "path": "appdynamics.agent.distrib.micro.windows/4.4.3",
+      "hashPath": "appdynamics.agent.distrib.micro.windows.4.4.3.nupkg.sha512"
+    },
+    "AppDynamics.Agent.Windows/4.4.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o1QyhCaDVASoc17bkhXnPJJ54izwEEA1Jhw32FOnpEsMoBS67juF3+QznEw4iDHcQQzp+s90+JfNOSQyTuEroQ==",
+      "path": "appdynamics.agent.windows/4.4.3",
+      "hashPath": "appdynamics.agent.windows.4.4.3.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/obj/project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/israel.ogbole/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/israel.ogbole/.nuget/packages/;/usr/local/share/dotnet/sdk/NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.5.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.app/2.0.0/build/netcoreapp2.0/Microsoft.NETCore.App.props" Condition="Exists('/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.app/2.0.0/build/netcoreapp2.0/Microsoft.NETCore.App.props')" />
+    <Import Project="$(NuGetPackageRoot)appdynamics.agent.distrib.micro.windows/4.4.3/build/AppDynamics.Agent.Distrib.Micro.Windows.props" Condition="Exists('$(NuGetPackageRoot)appdynamics.agent.distrib.micro.windows/4.4.3/build/AppDynamics.Agent.Distrib.Micro.Windows.props')" />
+    <Import Project="$(NuGetPackageRoot)appdynamics.agent.windows/4.4.3/build/netcoreapp2.0/AppDynamics.Agent.Windows.props" Condition="Exists('$(NuGetPackageRoot)appdynamics.agent.windows/4.4.3/build/netcoreapp2.0/AppDynamics.Agent.Windows.props')" />
+  </ImportGroup>
+</Project>

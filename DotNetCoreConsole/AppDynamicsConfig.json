@@ -1,0 +1,24 @@
+{
+  "controller": {
+    "host": "4dot4",
+    "port": 8090,
+    "account": "customer1",
+    "password": "86d162d0-7829-4f5c-b102-1ef422cb9228",
+    "ssl": false,
+    "enable_tls12": false
+  },
+  "application": {
+    "name": "DotNetCore-Windows",
+    "tier": "core-tier",
+    "node": "core-node"
+  },
+
+  "instrumentors": {
+    "enable": [
+      "ThreadStartCLR2Instrumentor",
+      "ThreadCorrelationThreadPoolCLR2Instrumentor"
+    ]
+   
+  }
+ 
+  }

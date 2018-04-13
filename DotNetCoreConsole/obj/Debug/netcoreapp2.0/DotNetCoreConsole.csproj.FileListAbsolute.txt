@@ -1,0 +1,16 @@
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/bin/Debug/netcoreapp2.0/DotNetCoreConsole.deps.json
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/bin/Debug/netcoreapp2.0/DotNetCoreConsole.runtimeconfig.json
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/bin/Debug/netcoreapp2.0/DotNetCoreConsole.runtimeconfig.dev.json
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/bin/Debug/netcoreapp2.0/DotNetCoreConsole.dll
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/bin/Debug/netcoreapp2.0/DotNetCoreConsole.pdb
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/obj/Debug/netcoreapp2.0/DotNetCoreConsole.csprojResolveAssemblyReference.cache
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/obj/Debug/netcoreapp2.0/DotNetCoreConsole.csproj.CoreCompileInputs.cache
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/obj/Debug/netcoreapp2.0/DotNetCoreConsole.AssemblyInfoInputs.cache
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/obj/Debug/netcoreapp2.0/DotNetCoreConsole.AssemblyInfo.cs
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/obj/Debug/netcoreapp2.0/DotNetCoreConsole.dll
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/obj/Debug/netcoreapp2.0/DotNetCoreConsole.pdb
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/bin/Debug/netcoreapp2.0/AppDynamics.Agent.netstandard.dll
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/bin/Debug/netcoreapp2.0/AppDynamics.Profiler_x64.dll
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/bin/Debug/netcoreapp2.0/AppDynamics.Profiler_x86.dll
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/bin/Debug/netcoreapp2.0/AppDynamicsAgentLog.config
+/Users/israel.ogbole/appDynamics/DotNetCoreConsole/DotNetCoreConsole/bin/Debug/netcoreapp2.0/DotNetCoreConsole.AppDynamicsConfig.json
